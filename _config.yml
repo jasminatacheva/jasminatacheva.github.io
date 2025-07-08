@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof1.jpeg"
   name             : "Jasmina Tacheva"
   pronouns         : "she/her"  
   bio              : "Born and raised in Bulgaria..."
